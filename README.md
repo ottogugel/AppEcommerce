@@ -1,6 +1,6 @@
 # AppEcommerce
 
-Projeto feito para uma atividade prática onde foi feito o desenvovlimento de uma tela referente a um aplicativo de e-commerce.
+Projeto feito para uma atividade prática onde foi feito o desenvolvimento de uma tela referente a um aplicativo de e-commerce.
 
 ## Ferramentas
 
